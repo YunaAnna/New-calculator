@@ -1,5 +1,4 @@
-let diena = 'otrdiena';
+const input1 = document.querySelector('.js-teksts');
 
-const vards = 'toms';
 
-console.log(diena)
+console.log(input1);
